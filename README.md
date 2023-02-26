@@ -1,2 +1,3 @@
-# as-everyone-knows-web3
-我们都应该了解的web3
+# my-web3-journey
+
+我的web3之旅
